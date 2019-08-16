@@ -1,6 +1,7 @@
 # TRY IT YOURSELF
 
 **Q1. Print the following pattern with the help of loops:**
+
 ![Star Pattern](https://2.bp.blogspot.com/--b0oRGrclT8/W_mN3H2iPaI/AAAAAAAAALI/qQNl7aoPBfcvPDKm8kusGn8WdkH69MnzwCLcBGAs/s1600/Star%2Bpattern%2Bjava.programmerclick.png)
 
 **Q2. Give grade according to marks range:**
