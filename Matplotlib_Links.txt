@@ -1,0 +1,10 @@
+
+1.FIGURE
+https://matplotlib.org/3.1.1/_images/anatomy.png
+
+
+2.PyPlot Documentation
+https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+
+3.  [.plot()] method Docs
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot
