@@ -27,7 +27,7 @@
 
 * Numpy library is used for Scientific and statistical calculations with it's powerful data container: [ndarray](https://www.numpy.org/doc/1.17/reference/arrays.ndarray.html).
 
-* The functions used for basic implementation o simple ML algorithms are discussed in the [numpy_ex.py](./numpy_ex.py) file.
+* The functions used for basic implementation of simple ML algorithms are discussed in the [numpy_ex.py](./numpy_ex.py) file.
 
 * For reference, look up the documentation of [Numpy](https://www.numpy.org/doc/1.17/reference/index.html) here.
 
