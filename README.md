@@ -11,13 +11,13 @@
   * The sheets have various constructs and syntax for the language.
   * They will be useful in making the ML programs.
   * The sequence to understand and revise concepts of python are:
-    - [Basic Syntax](./Basic Syntax.jpg)
-    - [Python 3 Basics](./Python 3 Basics.png)
-    - [Python 3 Container Cheat Sheet](./Python 3 Container Cheat Sheet.jpg)
-    - [Basic Example of python with explanation](./Basic Example of python with explanation.png)
-    - [Differences between Python 2 and Python 3](./Differences between Python 2 and Python 3.png)
-    - [Python quick reference](./Python quick reference.jpg)
-    - [Syntax Info Cheatsheet](./Syntax Info Cheatsheet.jpg)
+    - [Basic Syntax](https://github.com/TechNeurons/ML-Workshop/find/Day-1/Basic_Syntax.jpg)
+    - [Python 3 Basics]("https://github.com/TechNeurons/ML-Workshop/find/Day-1/Python_3_Basics.png")
+    - [Python 3 Container Cheat Sheet](https://github.com/TechNeurons/ML-Workshop/find/Day-1/Python_3_Container_Cheat_Sheet.jpg)
+    - [Basic Example of python with explanation](https://github.com/TechNeurons/ML-Workshop/find/Day-1/Basic_Example_of_python_with_explanation.png)
+    - [Differences between Python 2 and Python 3](https://github.com/TechNeurons/ML-Workshop/find/Day-1/Differences_between_Python2_and_Python3.png)
+    - [Python quick reference](https://github.com/TechNeurons/ML-Workshop/find/Day-1/Python_quick_reference.jpg)
+    - [Syntax Info Cheatsheet](https://github.com/TechNeurons/ML-Workshop/find/Day-1/Syntax_Info_Cheatsheet.jpg)
 
   ### [Numpy](https://www.numpy.org/doc/1.17/reference/index.html) Library
 
