@@ -3,10 +3,11 @@ import pandas as pd     # pd is the conventional abbreviation for pandas.
 
 #DataFrame:
 #
+#   Dataframe is a General 2D labeled, size-mutable tabular structure with potentially heterogeneously-typed column
+#
 #   It is a data container that can be constructed from a dictionary and lists
 #   DataFrame is a dictionary which has lists as it's values
 #   
-#   Dataframe is a General 2D labeled, size-mutable tabular structure with potentially heterogeneously-typed column
 #
 
 #Making a dataframe using it's constructor
