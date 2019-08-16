@@ -16,7 +16,7 @@
   * They will be useful in making the ML programs.
   * The sequence to understand and revise concepts of python are:
     * [Basic Syntax](https://github.com/TechNeurons/ML-Workshop/blob/Day-1/Basic_Syntax.jpg)
-    * [Python 3 Basics]("https://github.com/TechNeurons/ML-Workshop/blob/Day-1/Python_3_Basics.png")
+    * [Python 3 Basics](https://github.com/TechNeurons/ML-Workshop/blob/Day-1/Python_3_Basics.png)
     * [Python 3 Container Cheat Sheet](https://github.com/TechNeurons/ML-Workshop/blob/Day-1/Python_3_Container_Cheat_Sheet.jpg)
     * [Basic Example of python with explanation](https://github.com/TechNeurons/ML-Workshop/blob/Day-1/Basic_Example_of_python_with_explanation.png)
     * [Differences between Python 2 and Python 3](https://github.com/TechNeurons/ML-Workshop/blob/Day-1/Differences_between_Python2_and_Python3.png)
