@@ -13,13 +13,13 @@
 ## Summary
 
 * Unspervised learning consists of:
-  * Clustering
-  * Part of Neural Network
-  * Other models than can be included in clustering or is a variant of its.
+  * Clustering (Cluster Analysis)
+  * Principal component analysis
 
 ### Clustering
 
 * Clustering can be related to 'Grouping'
+* Reference : [NPTEL PPT](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/9A-clustering-intro.pptx)
 * Here we group data together based on some model
 * The widely-known approaches to clustering are:
   * Partitioning: Construct various partitions and then evaluate them by some criterion. (Popular Methods: K-Means)
@@ -34,10 +34,12 @@
 
 * K-means algorithm is an algorithm based on Centroid model of clustering.
 
+* References: [NPTEL PPT](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/9B-kmeans-clustering.pptx)  [PPT by Jing Gao](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/clustering_partitional.pdf)
+
 * Algorithm:
   * Given k
-  1. Randomly choose k data points (seeds) to be the initial cluster centres
-  2. Assign each data point to the closest cluster centre
+  1. Randomly choose k data points (seeds) to be the initial cluster centres.
+  2. Assign each data point to the closest cluster centre.
   3. Re-compute the cluster centres using the current cluster memberships.
   4. If a convergence criterion is not met, go to 2.
 
@@ -58,3 +60,11 @@
 ## TRY-IT-YOURSELF
 
 * After looking up our resources and learning, try these questions to get a better grasp on the clustering techniques : [Try it Yourself](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/Try-It-Yourself/Try_it_yourself.md)
+
+## References
+
+* NPTEL course : [Introduction to machine learning by Prof. Sudheshna Sarkar](https://nptel.ac.in/courses/106105152/)
+
+* [Scikit-learn](https://scikit-learn.org/stable/)
+
+* Datasets : [K-means properties on six clustering benchmark datasets by P. Fränti and S. Sieranoja](http://cs.joensuu.fi/sipu/datasets/)
