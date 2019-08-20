@@ -46,8 +46,10 @@
 * The example approach we take to introduce clustering is:
   * Consider a Pizza franchise who wants to open Outlets in a city. Given the population distribution, Find out the min. number of frachise it needs to open depending upon the population.
   * The dataset of the population distribution is given in : [Distribution-1](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/Datasets/Distribution-1.csv)
-  * The solved K-means algorithm code is given in : [https://github.com/TechNeurons/ML-Workshop/blob/Day-3/K-means.py]
-  * The question is also solved with a Python library called Scikit-learn. You can have a look at the code at :[https://github.com/TechNeurons/ML-Workshop/blob/Day-3/K-Means_by_Library.py]
+
+* The solved K-means algorithm code is given in : [https://github.com/TechNeurons/ML-Workshop/blob/Day-3/K-means.py]
+
+* The question is also solved with a Python library called Scikit-learn. You can have a look at the code at :[https://github.com/TechNeurons/ML-Workshop/blob/Day-3/K-Means_by_Library.py]
 
 * The comparison of different clustering algorithms provided by scikit-learn is also in the docs (Note: Update scikit-learn to the latest version after 21.1 as versions 20.x didn't have the OPTICS algorithm): [https://github.com/TechNeurons/ML-Workshop/blob/Day-3/plot_cluster_comparison.py]
 
