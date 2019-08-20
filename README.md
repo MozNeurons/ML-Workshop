@@ -34,7 +34,7 @@
 
 * K-means algorithm is an algorithm based on Centroid model of clustering.
 
-* References: [NPTEL PPT](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/9B-kmeans-clustering.pptx)  [PPT by Jing Gao](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/clustering_partitional.pdf)
+* References: [NPTEL PPT](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/9B-kmeans-clustering.pptx) / [PPT by Jing Gao](https://github.com/TechNeurons/ML-Workshop/blob/Day-3/clustering_partitional.pdf)
 
 * Algorithm:
   * Given k
