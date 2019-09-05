@@ -1,8 +1,8 @@
 # Machine Learning Workshop Series
 
-## Day 3 Contents
+## Day 6 Contents
 
-* Day 3 :
+* Day 6 :
   * Theory: (Look and read these topics before jumping on the hands-on)
     * Intro to Neural networks
     * Perceptron and it's relation with neurons
