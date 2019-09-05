@@ -59,7 +59,7 @@
 
 * Wiki: [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 * Here, we train our model to learn the slope(variable m) and shift(constant c) from the provided data.
-* A clear explanation about linear regression and it's types are provided at:[Machine Learning Mastery](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
+* A clear explanation about linear regression and it's types are provided at: [Machine Learning Mastery](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
 * An example of linear regression and it's implemented code with a custom dataset is provided at : [Towards Data Science](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
 
 ### Polynomial Regression
@@ -78,13 +78,13 @@
 * Even though the name suggests it to be a regression method, it can also be considered as a classification method.
 * Wiki: [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
 * Logistic regression is used for situations where there are only 2 outcomes(Dichotomy). It is similar to linear regression by replacing the linear curve(line) with an S-shaped curve called logistic function.
-* A detailed explanation of logistic regression along with the code is beautifully presented at :[Towards Data Science](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) by [Saishruthi Swaminathan](https://towardsdatascience.com/@saishruthi.tn)
+* A detailed explanation of logistic regression along with the code is beautifully presented at : [Towards Data Science](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) by [Saishruthi Swaminathan](https://towardsdatascience.com/@saishruthi.tn)
 
 ### Decision trees
 
 * Decision trees are basically binary trees which have nodes as decision questions and branches are in accordance to decisions.
 * Wiki: [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree)
-* A better and thorough explanation is given at:[Towards Data Science](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052) and (explanation + code) is given at :[Medium Article by Rajesh S. Brid](https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb)
+* A better and thorough explanation is given at: [Towards Data Science](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052) and (explanation + code) is given at : [Medium Article by Rajesh S. Brid](https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb)
 
 ### Neural Network
 
