@@ -8,7 +8,7 @@ Content of workshops on Machine Learning conducted by TechNeurons
 * Machine Learning Algorithms to be covered:
   * Clustering: K-means clustering
   * Classification :KNN classification and Naive-Bayes Classifier
-  * Regression: Linear regression
+  * Regression: Linear regression and Logistic regression
   * Deep Learning: Simple Neural-Network
   
 ## Day-wise content covered
@@ -28,3 +28,19 @@ Content of workshops on Machine Learning conducted by TechNeurons
   * Clustering Types
   * Kmeans Clustering with python code
   * A brush-up of different types of clustering
+
+* [Day 4](https://github.com/TechNeurons/ML-Workshop/tree/Day-4) :
+  * Supervised Learning intro
+  * Classification basics
+  * KNN Classification
+
+* [Day 5](https://github.com/TechNeurons/ML-Workshop/tree/Day-5) :
+  * Supervised Learning methods
+  * Regression methods introduction: Linear and Logistic Regression
+  * Classification methods introduction: Naive-Bayes Classifier and Decision trees
+
+* [Day 6](https://github.com/TechNeurons/ML-Workshop/tree/Day-6) :
+  * Neural Network
+  * Perceptron
+  * Activation functions
+  * Simple ANN using Keras
