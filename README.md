@@ -44,3 +44,5 @@ Content of workshops on Machine Learning conducted by TechNeurons
   * Perceptron
   * Activation functions
   * Simple ANN using Keras
+
+Hey There! This is just the start. Stay tuned! :)
