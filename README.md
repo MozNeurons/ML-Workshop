@@ -53,9 +53,9 @@
 
 * The algorithm and design of the program is beautifully explained at : [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 
-* Look up the code :[KNN_Classifier.py](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/KNN_Classifier.py) or [KNN Classification.ipynb](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/KNN_Classification.ipynb)
+* Look up the code : [KNN_Classifier.py](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/KNN_Classifier.py) or [KNN Classification.ipynb](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/KNN_Classification.ipynb)
 
-* Scikit-learn provides a code efficient way to do classification using ti's libary function call. You can have a look at the code at :[KNN_by_Library.py](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/KNN_by_Library.py) or [KNN_by_library_scikit-learn.ipynb](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/KNN_by_library_scikit-learn.ipynb)
+* Scikit-learn provides a code efficient way to do classification using ti's libary function call. You can have a look at the code at : [KNN_by_Library.py](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/KNN_by_Library.py) or [KNN_by_library_scikit-learn.ipynb](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/KNN_by_library_scikit-learn.ipynb)
 
 * Looking up at this classification method, We'll continue other algorithms of Supervised Learning on the next day.
 
