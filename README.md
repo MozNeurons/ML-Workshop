@@ -31,4 +31,4 @@
 
 ### TRY IT YOURSELF
 
-* After looking up our resources and learning, try these questions to get a better grasp of the language and usage of the libraries matplotlib and pandas: [Try it Yourself](https://github.com/TechNeurons/ML-Workshop/blob/Day-2/Try-it-yourself/Try-it-yourself.md)
+* After looking up our resources and learning, try these questions to get a better grasp of the language and usage of the libraries matplotlib and pandas: [Try it Yourself](https://github.com/MozNeurons/ML-Workshop/blob/Day-2/Try-it-yourself/Try-it-yourself.md)
