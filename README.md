@@ -19,7 +19,7 @@
 * These neural networks are designed upon the human nervous system/network.
 * Generally these NNs mostly apply supervised learning. i.e. they need to be trained before prediction.
 * The simple ANN we will construct is also a supervised learning technique.
-* The [Data.md](https://github.com/TechNeurons/ML-Workshop/blob/Day-6/Data.md) file contains important links to some of the resources.
+* The [Data.md](https://github.com/MozNeurons/ML-Workshop/blob/Day-6/Data.md) file contains important links to some of the resources.
 
 ### Neural Networks
 
@@ -30,7 +30,7 @@
 
 * [Keras](https://keras.io/) is a Neural network library written in python. It runs upon tensorflow, micorsoft cognitive toolkit, theano or plaidML.
 * For our example, we use [keras](https://keras.io/) to implement neural network and make our machine learn.
-* Our example, we use the Churn modelling example. For which the dataset is available at : [Kaggle](https://www.kaggle.com/shrutimechlearn/churn-modelling) or in the repo: [Dataset](https://github.com/TechNeurons/ML-Workshop/blob/Day-6/Churn_Modelling.csv).
+* Our example, we use the Churn modelling example. For which the dataset is available at : [Kaggle](https://www.kaggle.com/shrutimechlearn/churn-modelling) or in the repo: [Dataset](https://github.com/MozNeurons/ML-Workshop/blob/Day-6/Churn_Modelling.csv).
 
 ### Artificial neural Network
 
@@ -51,4 +51,4 @@
 
 ## TRY-IT-YOURSELF
 
-* After looking up our resources and learning, try these questions to get a better grasp on the concepts and go-arounds: [Try it Yourself](https://github.com/TechNeurons/ML-Workshop/blob/Day-6/Try-It-Yourself/Try_it_yourself.md)
+* After looking up our resources and learning, try these questions to get a better grasp on the concepts and go-arounds: [Try it Yourself](https://github.com/MozNeurons/ML-Workshop/blob/Day-6/Try-It-Yourself/Try_it_yourself.md)
