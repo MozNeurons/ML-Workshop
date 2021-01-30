@@ -91,10 +91,10 @@
 * Neural Network is a set of methods of supervised learning that mimics the way a human brain operates.
 * Wiki: [Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 * These methods are most commonly known as deep learning, synonymous to the deep architecture of neurons in a human brain.
-* We'll cover this topic under [Day 6](https://github.com/TechNeurons/ML-Workshop/tree/Day-6)
+* We'll cover this topic under [Day 6](https://github.com/MozNeurons/ML-Workshop/tree/Day-6)
 
 ### Try-It-Yourself
 
-* Try Day 4 [Try-it-Yourself](https://github.com/TechNeurons/ML-Workshop/blob/Day-4/Try-it-Yourself/Try_it_yourself.md) using Naive-bayes classifier.
+* Try Day 4 [Try-it-Yourself](https://github.com/MozNeurons/ML-Workshop/blob/Day-4/Try-it-Yourself/Try_it_yourself.md) using Naive-bayes classifier.
 
 * Well, look up the other techniques of supervised learning like SVM and Random forest. We'll continue with others and go in detail about some methods in the future in advanced ML Series. Stay Tuned! :)
