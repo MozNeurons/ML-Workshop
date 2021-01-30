@@ -13,33 +13,33 @@ Content of workshops on Machine Learning conducted by TechNeurons
   
 ## Day-wise content covered
   
-* [Day 1](https://github.com/TechNeurons/ML-Workshop/tree/Day-1) :
+* [Day 1](https://github.com/MozNeurons/ML-Workshop/tree/Day-1) :
   * Python overview with cheatsheets
   * Library Basics:
     * Numpy
 
-* [Day 2](https://github.com/TechNeurons/ML-Workshop/tree/Day-2) :
+* [Day 2](https://github.com/MozNeurons/ML-Workshop/tree/Day-2) :
   * Library Basics:
     * Matplotlib
     * Pandas
 
-* [Day 3](https://github.com/TechNeurons/ML-Workshop/tree/Day-3) :
+* [Day 3](https://github.com/MozNeurons/ML-Workshop/tree/Day-3) :
   * Clustering Basics
   * Clustering Types
   * Kmeans Clustering with python code
   * A brush-up of different types of clustering
 
-* [Day 4](https://github.com/TechNeurons/ML-Workshop/tree/Day-4) :
+* [Day 4](https://github.com/MozNeurons/ML-Workshop/tree/Day-4) :
   * Supervised Learning intro
   * Classification basics
   * KNN Classification
 
-* [Day 5](https://github.com/TechNeurons/ML-Workshop/tree/Day-5) :
+* [Day 5](https://github.com/MozNeurons/ML-Workshop/tree/Day-5) :
   * Supervised Learning methods
   * Regression methods introduction: Linear and Logistic Regression
   * Classification methods introduction: Naive-Bayes Classifier and Decision trees
 
-* [Day 6](https://github.com/TechNeurons/ML-Workshop/tree/Day-6) :
+* [Day 6](https://github.com/MozNeurons/ML-Workshop/tree/Day-6) :
   * Neural Network
   * Perceptron
   * Activation functions
