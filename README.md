@@ -33,4 +33,4 @@
 
 ## Try it Yourself
 
-* After looking up our resources and learning, try these questions to get a better grasp of the language and usage of the library numpy: [Try it Yourself](https://github.com/TechNeurons/ML-Workshop/blob/Day-1/Try-It-Yourself/Try_it_yourself.md)
+* After looking up our resources and learning, try these questions to get a better grasp of the language and usage of the library numpy: [Try it Yourself](https://github.com/MozNeurons/ML-Workshop/blob/Day-1/Try-It-Yourself/Try_it_yourself.md)
